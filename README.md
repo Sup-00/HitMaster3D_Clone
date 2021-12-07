@@ -1,5 +1,5 @@
 # HitMaster3D_Clone
-Клон игры [HitMaster3D](https://play.google.com/store/apps/details?id=com.honeycombgames.musclesmash) от Honey Comb Games
+Клон игры [HitMaster3D](https://play.google.com/store/apps/details?id=com.hit.master&hl=ru&gl=US) от CASUAL AZUR GAMES
 
 [Видео](https://youtu.be/jkw1sCQEkuw)
 
