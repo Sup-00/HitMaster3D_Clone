@@ -3,4 +3,4 @@
 
 [Видео](https://youtu.be/jkw1sCQEkuw)
 
-![Image alt](https://github.com/Sup-00/Pictures/blob/main/HitMster3DClone/HitMster3D(Clone).png)
+![Image alt](https://github.com/Sup-00/HitMaster3D_Clone/blob/main/HitMster3D(Clone).png)
